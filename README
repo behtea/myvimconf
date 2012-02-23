@@ -2,4 +2,4 @@ My vim conf
 to install it :
 - git clone https://github.com/behtea/myvimconf.git ~/.vim
 - cd ~/.vim && git submodule update --init
-- ln -s ~/.vim/vimrc ~/vimrc
+- ln -s ~/.vim/vimrc ~/.vimrc
